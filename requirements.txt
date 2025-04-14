@@ -1,0 +1,6 @@
+farm-haystack[colab]
+farm-haystack[inference]
+transformers==4.39.3
+beautifulsoup4
+requests
+torch
