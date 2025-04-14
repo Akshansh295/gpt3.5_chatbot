@@ -42,5 +42,5 @@ The notebook will prompt for your Hugging Face API token. Make sure you have a v
 
 ---
 
-**Author:** *Your Name Here*  
+**Author:** *Akshansh*  
 **License:** MIT
